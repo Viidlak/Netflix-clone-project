@@ -1,0 +1,19 @@
+.banner{
+    height:500px;
+    object-fit: contain;
+}
+.banner-contents{
+    margin-left:2rem;
+    padding-top: 190px;
+    height:190px;
+}
+.banner-title{
+    font-size: 3rem;
+    padding-bottom: 0.3rem;
+
+}
+.banner-disc{
+    width:45rem;
+    font-size: 1rem;
+    line-height: 1.4;
+}
